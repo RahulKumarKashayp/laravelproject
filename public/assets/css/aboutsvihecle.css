@@ -1,0 +1,32 @@
+/*body{*/
+/*    background-color: red;*/
+/*}*/
+/*h1{*/
+/*    color: blue;*/
+/*}*/
+.about-us h2{
+    background-color: #109ece;
+    color: white;
+    margin-top: 20px;
+    padding-left: 119px;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+    line-height: 2;
+}
+
+.about-us p{
+    font-size: 15px;
+    font-weight: 500;
+    color: #333;
+}
+
+.about-us h3 {
+    font-size: 20px;
+    color: #333;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.about-us ul li{
+    color: #6c757d !important;
+}
